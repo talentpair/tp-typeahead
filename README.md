@@ -15,3 +15,4 @@ Allows Angular UI-Bootstrap typeahead directive to be included as a bower compon
 ## Examples
 
 Check out [UI-Bootstrap Typeahead](https://angular-ui.github.io/bootstrap/#/typeahead)!
+
