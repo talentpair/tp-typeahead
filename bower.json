@@ -1,0 +1,22 @@
+{
+  "name": "tp-typeahead",
+  "version": "0.0.0",
+  "homepage": "https://github.com/talentpair/tp-typeahead",
+  "authors": [
+    "AngularUI Team"
+  ],
+  "description": "Typeahead directive from ui-bootstrap",
+  "main": "dist/ui-bootstrap-typeahead-0.13.0.min.js",
+  "keywords": [
+    "typeahead",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
