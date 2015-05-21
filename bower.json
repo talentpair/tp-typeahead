@@ -6,7 +6,10 @@
     "AngularUI Team"
   ],
   "description": "Typeahead directive from ui-bootstrap",
-  "main": "dist/ui-bootstrap-typeahead-0.13.0.min.js",
+  "main": [
+    "dist/ui-bootstrap-typeahead-0.13.0.min.js",
+    "dist/ui-bootstrap-typeahead-tpls-0.13.0.min.js"
+  ],
   "keywords": [
     "typeahead",
     "bootstrap"
