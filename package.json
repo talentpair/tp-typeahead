@@ -1,0 +1,19 @@
+{
+  "name": "tp-typeahead",
+  "version": "1.0.0",
+  "description": "Typeahead Directive from [UI-Bootstrap] (https://angular-ui.github.io/bootstrap/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talentpair/tp-typeahead.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/talentpair/tp-typeahead/issues"
+  },
+  "homepage": "https://github.com/talentpair/tp-typeahead"
+}
