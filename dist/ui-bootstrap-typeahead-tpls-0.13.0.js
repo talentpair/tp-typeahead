@@ -50,7 +50,8 @@ angular.module('ui.bootstrap.typeahead', ['ui.bootstrap.position', 'ui.bootstrap
       //SUPPORTED ATTRIBUTES (OPTIONS)
 
       //minimal no of characters that needs to be entered before typeahead kicks-in
-      var minSearch = originalScope.$eval(attrs.typeaheadMinLength) || 1;
+      var typeaheadMinLength = originalScope.$eval(attrs.typeaheadMinLength);
+      var minSearch = !typeaheadMinLength && typeaheadMinLength !== 0 ? 1 : typeaheadMinLength;
 
       //minimal wait time after last character typed before typeahead kicks-in
       var waitTime = originalScope.$eval(attrs.typeaheadWaitMs) || 0;
