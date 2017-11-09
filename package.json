@@ -1,6 +1,6 @@
 {
   "name": "tp-typeahead",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Typeahead Directive from [UI-Bootstrap] (https://angular-ui.github.io/bootstrap/)",
   "main": "index.js",
   "scripts": {
